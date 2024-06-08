@@ -1,4 +1,4 @@
-Welcome to MyProject!
+Welcome to MyProject! Git For Beginners
 
 
 Author: Luannt2951994
